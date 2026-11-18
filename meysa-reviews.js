@@ -7,7 +7,7 @@ window.MeysaReviewsV10=true;
 
 var BASE='https://dpu-ai.github.io/meysa-reviews/';
 var FILES={
-'/limited-kase-kaban-aci-kahve':'data/limited-kase-kaban-aci-kahve.json'
+'/limited-kase-kaban-aci-kahve1':'data/limited-kase-kaban-aci-kahve.json'
 };
 
 var path=decodeURIComponent(location.pathname)
