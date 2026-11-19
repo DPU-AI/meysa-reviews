@@ -6,9 +6,22 @@ if(window.MeysaReviewsV10)return;
 window.MeysaReviewsV10=true;
 
 var BASE='https://dpu-ai.github.io/meysa-reviews/';
-var FILES={
-'/limited-kase-kaban-aci-kahve1':'data/limited-kase-kaban-aci-kahve.json'
+
+var FILES = {
+  '/limited-kase-kaban-gri1':
+    'data/limited-kase-kaban-aci-kahve.json',
+  '/limited-kase-kaban-aci-kahve1':
+    'data/limited-kase-kaban-aci-kahve.json',
+  '/limited-kase-kaban-ekru1':
+    'data/limited-kase-kaban-aci-kahve.json',
+  '/limited-kase-kaban-siyah1':
+    'data/limited-kase-kaban-aci-kahve.json',
+  '/limited-kase-kaban-antrasit1':
+    'data/limited-kase-kaban-aci-kahve.json',
+  '/limited-kase-kaban-bordo1':
+    'data/limited-kase-kaban-aci-kahve.json'
 };
+
 
 var path=decodeURIComponent(location.pathname)
 .replace(/\/+$/,'').toLocaleLowerCase('tr-TR');
