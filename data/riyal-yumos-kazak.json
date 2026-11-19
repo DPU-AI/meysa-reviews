@@ -1,0 +1,863 @@
+[
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "D. L. U.",
+    "rating": 5,
+    "date": "2026-11-19",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "Ü. Ş.",
+    "rating": 5,
+    "date": "2026-11-19",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "A. M. Z.",
+    "rating": 5,
+    "date": "2026-11-19",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "A. D. T.",
+    "rating": 5,
+    "date": "2026-11-19",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "H. B. F.",
+    "rating": 5,
+    "date": "2026-11-19",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "C. Y. D.",
+    "rating": 5,
+    "date": "2026-11-18",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "Ü. Ü.",
+    "rating": 5,
+    "date": "2026-11-18",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "Ö. Ş. L.",
+    "rating": 5,
+    "date": "2026-11-18",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "E. P. C.",
+    "rating": 5,
+    "date": "2026-11-18",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "E. B. L.",
+    "rating": 5,
+    "date": "2026-11-18",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "Ü. G. Ö.",
+    "rating": 5,
+    "date": "2026-11-18",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "Ç. K. M.",
+    "rating": 5,
+    "date": "2026-11-18",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "Y. E. G.",
+    "rating": 5,
+    "date": "2026-11-18",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "O. A. R.",
+    "rating": 5,
+    "date": "2026-11-17",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "P. F. İ.",
+    "rating": 5,
+    "date": "2026-11-17",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "Ü. A. Ç.",
+    "rating": 5,
+    "date": "2026-11-17",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "F. U. Ö.",
+    "rating": 5,
+    "date": "2026-11-17",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "G. Y. C.",
+    "rating": 5,
+    "date": "2026-11-17",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "Ş. Ü. S.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "Ş. J.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "R. Ö. B.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "Ş. H. T.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "Ç. J.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "K. S. C.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "P. N. L.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "Ö. J.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "Y. D. T.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "H. T. V.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "L. İ. Ö.",
+    "rating": 5,
+    "date": "2026-11-16",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "O. K. V.",
+    "rating": 5,
+    "date": "2026-11-15",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "R. Y. Ç.",
+    "rating": 5,
+    "date": "2026-11-15",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "M. İ. C.",
+    "rating": 5,
+    "date": "2026-11-15",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "E. B. R.",
+    "rating": 5,
+    "date": "2026-11-15",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "İ. A. L.",
+    "rating": 5,
+    "date": "2026-11-15",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "Ç. P. M.",
+    "rating": 5,
+    "date": "2026-11-15",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "E. B. M.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "Ş. İ. P.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "İ. Z. Ş.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "Ş. U. O.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "H. O. Y.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "D. N. E.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "F. K. I.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "Ü. O. T.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "D. H. O.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "J. Z. S.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "E. Ü. E.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "Ş. N. Y.",
+    "rating": 5,
+    "date": "2026-11-14",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "Y. H. T.",
+    "rating": 5,
+    "date": "2026-11-13",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "R. D. P.",
+    "rating": 5,
+    "date": "2026-11-13",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "I. P. F.",
+    "rating": 5,
+    "date": "2026-11-13",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "M. Ö. D.",
+    "rating": 5,
+    "date": "2026-11-13",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "Z. Ş.",
+    "rating": 5,
+    "date": "2026-11-13",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "R. T. Ç.",
+    "rating": 5,
+    "date": "2026-11-13",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "H. İ. L.",
+    "rating": 5,
+    "date": "2026-11-13",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "F. A. Ö.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "O. Z. L.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "L. T. P.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "K. N. H.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "R. M. S.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "C. Ö. O.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "İ. Ü. S.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "H. Ş. B.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "Ç. Y. B.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "C. H. P.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "Ü. C. T.",
+    "rating": 5,
+    "date": "2026-11-12",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "Ö. Ş.",
+    "rating": 5,
+    "date": "2026-11-11",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "B. Ş. O.",
+    "rating": 5,
+    "date": "2026-11-11",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "S. N. C.",
+    "rating": 5,
+    "date": "2026-11-11",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "Z. Ö.",
+    "rating": 5,
+    "date": "2026-11-11",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "Ş. L. E.",
+    "rating": 5,
+    "date": "2026-11-11",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "S. D. B.",
+    "rating": 5,
+    "date": "2026-11-11",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "C. G. E.",
+    "rating": 5,
+    "date": "2026-11-10",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "O. C. V.",
+    "rating": 5,
+    "date": "2026-11-10",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "Ş. Ş.",
+    "rating": 5,
+    "date": "2026-11-10",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "S. U. G.",
+    "rating": 5,
+    "date": "2026-11-10",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "M. Y. Ü.",
+    "rating": 5,
+    "date": "2026-11-10",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "F. H. Ç.",
+    "rating": 5,
+    "date": "2026-11-10",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "B. Z. Ü.",
+    "rating": 5,
+    "date": "2026-11-10",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "Ş. R. A.",
+    "rating": 5,
+    "date": "2026-11-09",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "Y. G. I.",
+    "rating": 5,
+    "date": "2026-11-09",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "B. Y. Ş.",
+    "rating": 5,
+    "date": "2026-11-09",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "V. Ş.",
+    "rating": 5,
+    "date": "2026-11-09",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "Ö. D. Ç.",
+    "rating": 5,
+    "date": "2026-11-09",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "P. B. U.",
+    "rating": 5,
+    "date": "2026-11-08",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "Ş. Y. İ.",
+    "rating": 5,
+    "date": "2026-11-08",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Teslimat biraz geç yapıldı, kargo sürecini sorun etsem de ürünün kalitesi 5 yıldızı hak ediyor. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "F. Ü. F.",
+    "rating": 5,
+    "date": "2026-11-08",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "H. Ö. K.",
+    "rating": 5,
+    "date": "2026-11-08",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "Ü. F. N.",
+    "rating": 5,
+    "date": "2026-11-08",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "C. İ. P.",
+    "rating": 5,
+    "date": "2026-11-08",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "G. A. P.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "P. T. E.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "D. O. Y.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "A. G. F.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "Ç. L. M.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "I. T. Ö.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "P. U. G.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "E. Ö. P.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "K. R. I.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "E. Y. Z.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "Ş. İ. L.",
+    "rating": 5,
+    "date": "2026-11-07",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "D. U. İ.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. 42-44 beden arası giyenler hiç düşünmeden alabilir, standart kalıbı çok kurtarıcı. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "N. E. T.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "M. E. L.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "F. P. A.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "V. A. V.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "Ç. Ş.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Rengi de dokusu da görseldekinden bile güzel, kalitesi tek kelimeyle efsane. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "Y. D. Ş.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "Z. Ü.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Sayfamdan yaptığım 3. alışverişim, dolabım buranın kazaklarıyla doldu."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "U. P. B.",
+    "rating": 5,
+    "date": "2026-11-06",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Standart beden yapısı 44 bedene kadar rahatlıkla oluyor, duruşuna bayıldım. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Sipariş aşamasında müşteri temsilcisiyle anlaşmazlık yaşasak da firma sahibinin tatlı dili ve kalitesi yüzünden vazgeçemiyorum. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "Ğ. J.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Kalitesi fiyatının çok çok üzerinde, dokusu ipek gibi yumuşacık. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "L. A. Ş.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "D. Ş. Ü.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Yumoş dokusuna resmen aşık oldum, yumuşacık ve sıcacık tutuyor. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Siyah",
+    "name": "Ç. Ö. S.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Firma sahibini çok sevdiğim için gözüm kapalı güveniyorum, her zamanki gibi kaliteden ödün vermemiş. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Acı Kahve",
+    "name": "V. İ. Ö.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Tüy dökmeyen, kaşındırmayan harika bir dokusu var, kalitesine bayıldım. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "İ. D. S.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Kalıbı çok güzel, standart beden olmasına rağmen 44 bedeni bile sıkmadan sarıyor. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "Z. Ü. İ.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Kargo süreci biraz yavaş işledi, elime geç ulaştı fakat kalitesi beklediğime değdi. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Artık kaçıncı siparişim bilmiyorum ama 5. alışverişimde de yine tam not aldı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "B. G. N.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Kalıbı ve dokusu harika, ilk giydiğim andan itibaren üzerimden çıkarmak istemedim. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Krem",
+    "name": "Ö. Z.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Pembe",
+    "name": "H. U. S.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Bu kadar yumuşak ve kaliteli bir yumoş kazak daha önce görmemiştim, muhteşem. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Müşteri temsilcisi biraz ilgisizdi ama firma sahibine bayılıyorum, her ürünü ayrı güzel. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Bordo",
+    "name": "Ö. Ö.",
+    "rating": 5,
+    "date": "2026-11-05",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Kargo süresi biraz daha hızlı olabilirdi, birkaç gün gecikmeli geldi ama ürün şahane. Müşteri temsilcisi sorulara biraz geç döndü fakat firma sahibini çok seviyorum, enerjisi ve işine saygısı harika. Bu mağazadan 5. alışverişim ve yine yanıltmadı."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Haki",
+    "name": "A. N. M.",
+    "rating": 5,
+    "date": "2026-11-04",
+    "text": "Yumuşacık bulut gibi bir kazak, triko kalitesi gerçekten kusursuz. Standart beden diye tereddüt etmiştim ama 44 bedene kadar esnek ve şık duruyor. Tek sıkıntı kargo süresinin biraz uzun sürmesiydi ama ürün gelince her şeyi unuttum. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır. 3. alışverişim oldu, her seferinde aynı özen ve kaliteyle karşılaşıyorum."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Kırmızı",
+    "name": "S. B. E.",
+    "rating": 5,
+    "date": "2026-11-04",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Normalde 44 beden giyiyorum, standart beden olmasına karşın üzerime tam oturdu. Kargo biraz bekletti açıkçası ama paket açılınca karşılaştığım kalite tüm sinirimi aldı. Müşteri temsilcisiyle ufak bir iletişim sıkıntısı yaşadık ama firma sahibinin samimiyeti ve ilgisi için bile alınır."
+  },
+  {
+    "productName": "Riyal Yumoş Kazak Sarı",
+    "name": "Z. J.",
+    "rating": 5,
+    "date": "2026-11-04",
+    "text": "Kumaş kalitesi o kadar üst düzey ki dokunduğunuz an farkını hissediyorsunuz. Standart beden olmasına rağmen 44 bedene kadar çok rahat uyum sağlıyor, dökümü harika. Kargo firması yüzünden teslimat gecikti ancak kazak o kadar güzel ki puan kırmaya kıyamadım. Daha önce de almıştım bu 4. siparişim, kalitesi hiç bozulmuyor."
+  }
+]
